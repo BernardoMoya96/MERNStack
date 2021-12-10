@@ -1,0 +1,7 @@
+.ui.table thead th{
+    color: gray !important; 
+}
+
+.ui.table{
+    border: 5px solid #000000 !important;
+}

@@ -1,0 +1,16 @@
+.login-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: orange;
+    flex-direction: column;
+    
+  }
+  h1{
+      color: white;
+  }
+
+  .form{
+    border: 5px solid #FFFFFF ;    
+  }
